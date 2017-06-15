@@ -1,5 +1,5 @@
 
-## Tensorflow basics
+## Introduction
 
 A quick intro into tensorflow basics from various sources. Mainly [1](https://github.com/pkmital/tensorflow_tutorials/blob/master/python/01_basics.py) and [2](https://www.tensorflow.org/tutorials/)  
 After install, we do the basic imports. matplotlib is used for plots.
