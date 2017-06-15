@@ -12,12 +12,13 @@ import matplotlib.pyplot as plt
 ```
 
 Tensorflow computes everythign using tensors. Assuming familiarity with python classes, Tensor is roughly,    
+```c
 class tensor:  
-    content (needs to be computed by a 'tensorflow session' later)    
+    content // (needs to be computed by a 'tensorflow session' later)    
     rank  
     shape  
     dtype  
-
+```
 
 ```python
 n = 32
