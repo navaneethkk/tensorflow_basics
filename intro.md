@@ -179,7 +179,7 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
+![png](images/output_20_0.png)
 
 
 Let some function be defined that does some processing on the inputs. Like a scaling one below. The inputs will be read on to a placeholder variable (needs dtype and shape can either be defiend or left as None for runtime)
@@ -207,4 +207,4 @@ plt.show()
 ```
 
 
-![png](output_24_0.png)
+![png](images/output_24_0.png)
